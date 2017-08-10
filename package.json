@@ -1,0 +1,15 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "next": "beta",
+    "postcss-loader": "^2.0.3",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "node_modules/.bin/next build",
+    "build:static": "node_modules/.bin/next build && node_modules/.bin/next export",
+    "start": "node_modules/.bin/next start"
+  }
+}
