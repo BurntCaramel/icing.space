@@ -13,8 +13,8 @@ export default ({
     </Head>
     <main className="content"><header ><h1 >Make products? We make open source tools for you</h1></header>
 <article >
-  <a href="https://datadown.netlify.com/>" className=""><h2 className="">Use Markdown to play with data and components</h2></a>
-  <a href="https://fruitbat.collected.design/" className=""><h2 className="">Plan your migrations for Rails and Ecto</h2></a>
+  <a href="https://datadown.netlify.com/>" className=""><h2 className="">Datadown: Use Markdown to play with data and components</h2></a>
+  <a href="https://fruitbat.collected.design/" className=""><h2 className="">Fruitbat: Plan your migrations for Rails and Ecto</h2></a>
   <a href="https://collected.design/" className=""><h2 className="">Collected: a design system from messaging to components</h2></a>
   <a href="https://lofi.design/" className=""><h2 className="">Lofi: content’s new best friend</h2></a>
   <a href="https://lokum.icing.space/" className=""><h2 className="">Lokum: turns Trello boards into websites</h2></a>
